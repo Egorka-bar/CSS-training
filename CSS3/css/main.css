@@ -1,0 +1,19 @@
+strike {
+    color: #6200ff;
+}
+
+.main-text {
+    color: rgb(239, 153, 24);
+}
+
+#text-in-p {
+    color: black;
+}
+
+#bold-text-in-p {
+    color: fuchsia;
+}
+
+div b, div i {
+    color: purple;
+}
