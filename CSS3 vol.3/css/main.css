@@ -1,0 +1,15 @@
+#first {
+    background-color: rgb(174, 190, 211);
+    background-image: url('https://img.freepik.com/premium-photo/mountain-range-with-purple-orange-lights-background_1117680-1996.jpg?semt=ais_hybrid&w=740');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+ 
+    /* или можно так    background: rgb(174, 190, 211) url('https://img.freepik.com/premium-photo mountain-range-with-purple-orange-lights-background_1117680-1996.jpg?semt=ais_hybrid&w=740') no-repeat center; */
+}
+
+#second {
+    height: 2000px;
+}
